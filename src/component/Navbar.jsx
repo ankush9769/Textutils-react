@@ -23,7 +23,6 @@ export default function Navbar(props) {
       document.querySelector("body").style.backgroundColor = "black";
       document.querySelector("body").style.color = "white";
       showalert("dark mode is on", "success")
-
     }
   }
 
@@ -38,30 +37,6 @@ export default function Navbar(props) {
     }, 1500);
   }
 
-  // const [color,setcolor]=useState()
-  // const applycolor=(name)=>{
-  //   setcolor(name)
-  //   if(color==="green"){
-  //     setcolor(name)
-  //     document.querySelector("body").style.backgroundColor = "green";
-  //     document.querySelector("body").style.color = "white";
-  //     showalert("green color apply successfully", "success")
-  //   }
-  //   else if(color==="blue"){
-  //     document.querySelector("body").style.backgroundColor = "blue";
-  //     document.querySelector("body").style.color = "white";
-  //     showalert("blue color apply successfully", "success")
-  //   }
-  //   else if(color==="purple"){
-  //     document.querySelector("body").style.backgroundColor = "purple";
-  //     document.querySelector("body").style.color = "white";
-  //     showalert("purple color apply successfully", "success")
-  //   }
-  //   else{
-  //     console.log("nothing")
-  //   }
-    
-  // }
 
 
   return (

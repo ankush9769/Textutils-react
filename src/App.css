@@ -5,5 +5,12 @@
 .alert{
   height: 50px;
 }
+.modebtn{
+  background-color: white;
+  margin-right: 10px;
+  width: 60px;
+  height: 30px;
+  border: none;
+}
 
 
