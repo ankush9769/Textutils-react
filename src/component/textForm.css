@@ -1,0 +1,13 @@
+.btns{
+    margin-top: 3vh;
+    padding: 5px 7px;
+    background-color: rgb(23, 17, 209);
+    color: white;
+    border-radius: 5px;
+}
+.form-floating{
+    margin-top: 5vh;
+}
+.textbox{
+    margin-top: 2vh;
+}
